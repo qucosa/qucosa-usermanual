@@ -22,25 +22,20 @@ nicht mehr angezeigt wird.
 
 * um möglichst viel Platz im rechten Anzeigefeld zu haben, kann man die beiden Menüleisten links zusammenschieben, die mittlere kann auch ausgeblendet werden
 
-
-
-
-
-
-
 ## [Die Bedeutung der Schaltflächen](#die-bedeutung-der-schaltflächen)
 
 **Generell gilt:** Etwas heller eingefärbte Schaltflächen sind für den konkreten Anwendungsfall nicht relevant und können deshalb nicht bedient werden.
 
 | **Symbol/Button** | **Wo?** | **Aktion** |  |
 | :---: | :---: | :---: | :---: |
-| Neu |  | Anzeige aller neu angemeldeten Dokumte |  |
-| In Bearbeitung |  | Anzeige aller Dokumente, welche sich gerade im Arbeitsbereich befinden |  |
-| ![](/assets/image2016-6-15 12_10_4.png) Previewanzeige |  |  |  |
+| Neu |  | Anzeige aller neu                 angemeldeten Dokumte |  |
+| In Bearbeitung |  | Anzeige aller Dokumente,  welche sich gerade im       Arbeitsbereich befinden |  |
+| ![](/assets/image2016-6-15 12_10_4.png) Previewanzeige |  | Öffnet die Vorschau der      Landing-Page |  |
 | ![](/assets/image2016-6-15 12_11_33.png) Duplizieren des Dokumentes |  |  |  |
 | ![](/assets/image2016-6-15 12_45_40.png)Aktivieren des Dokumentes |  | Einblenden eines bereits veröffentlichten Dokumentes | ein zuvor inaktiv gesetztes Dokument soll wieder in die Suche integriert werden |
-| ![](/assets/image2016-6-15 14_22_36.png)inactive document |  | Ausblenden eines bereits veröffentlichten Dokumentes | Dokument kann in der Suche nicht mehr gefunden werden, es erscheint nicht in der Landing-Page Dokument ist im Frontend nicht mehr sichtbarInaktiv gesetzte Dokumente können im Arbeitsbereich gelöscht werden, es wird innerhalb des Repositories ein Schalter umgelegt. Dadurch hat man die Möglichkeit den Arbeitsbereich für bestimmte Dokumente zu leeren. |
-| ![](/assets/image2016-10-27 10_2_11.png) | DokumentenlisteDatensatz im Editiermodus | Entfernen eines Datensatzes aus dem lokalen Arbeitsbereich | Möglichkeit, einen Datensatz vor der Veröffentlichung zu löschenMöglichkeit, die Kopie eines Datensatzes, die zur Aktualisierung in den lokalen Arbeitsbereich geholt wurde, zu löschen |
+| ![](/assets/image2016-6-15 14_22_36.png)inactive document |  | Ausblenden eines bereits    veröffentlichten Dokumentes | Das Dokument kann in der Suche nicht mehr gefunden werden, es erscheint nicht in der Landing-Page Dokument ist im Frontend nicht mehr sichtbarInaktiv gesetzte Dokumente können im Arbeitsbereich gelöscht werden, es wird innerhalb des Repositories ein Schalter umgelegt. Dadurch hat man die Möglichkeit den Arbeitsbereich für bestimmte Dokumente zu leeren. |
+| ![](/assets/info_button.png) |  | Download der DataCite-XML Datei |  |
+| ![](/assets/image2016-10-27 10_2_11.png) | DokumentenlisteDatensatz im Editiermodus | Entfernen eines Datensatzes aus dem lokalen Arbeitsbereich | Möglichkeit, einen Datensatz vor der Veröffentlichung zu löschen Möglichkeit, die Kopie eines Datensatzes, die zur Aktualisierung in den lokalen Arbeitsbereich geholt wurde, zu löschen |
 | ![](/assets/image2016-10-27 9_58_32.png)![](/assets/image2016-10-27 9_59_19.png) | Dokumentenliste | Veröffentlichen des Datensatzes | Metadaten und Datei\(en\) werden ins Repository übertragen. Präsentation über die Recherche erfolgtDokument wird nicht mehr im lokalen Arbeitsbereich gelistet |
 | ![](/assets/image2016-11-23 8_13_36.png)![](/assets/image2016-11-23 8_15_25.png) | Dokumentenliste | Abschließen der Korrektur eines bereits veröffentlichten Datensatzes | Kopie des Datensatzes wurde im lokalen Arbeitsbereich bearbeitet-                         Korrekturen werden ins Repository übertragen.Dokument wird nicht mehr im lokalen Arbeitsbereich gelistet |
 | ![](/assets/image2016-10-27 9_52_48.png)![](/assets/image2016-10-27 9_54_40.png) | Datensatz im Editiermodus | Markieren eines Datensatzes als "Im Repository Löschen" | Schaltfläche steht nur für Datensätze zur Verfügung, die bereits freigeschaltet wurden, sich im Repository befinden und für die eine Kopie zur Aktualisierung in den lokalen Arbeitsbereich geholt wurde |
