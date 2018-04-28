@@ -13,7 +13,7 @@
   * [Felder und Eingaberegeln](backoffice and configuration.md)
 * [Anlegen neuer Dokumente](create_documents.md)
   * [Anmelden im Eingabeassistenten](input_wizard.md)
-    * [Dokumentarten](input_wizard/dokumentarten.md)
+    * [Dokumentarten](input_wizard/document_types.md)
 * [Webseitenredaktion - TYPO3](website-editing-typo3.md)
   * [Webseiten anlegen und bearbeiten](website-editing-typo3.md)
   * [Vorschau anzeigen](website-editing-typo3.md)
