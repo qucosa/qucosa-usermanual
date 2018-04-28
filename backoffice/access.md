@@ -6,20 +6,27 @@ Das Backoffice ist im neuen System in die Contentmanagementsoftware TYPO3 integr
 Dieses ist über folgenden Link:  
 [https://web-redaktion.slub-dresden.de/typo3/](https://web-redaktion.slub-dresden.de/typo3/ "Qucosa- Administrationsbereich")
 
-oder über die Qucosa-Webseite zu erreichen:
+oder über die Qucosa-Webseite (Menüpunkt "Administration") zu erreichen:
 
 
 #### Start Backoffice TYPO3
 
-* linke Menüleiste - Qucosa - Manager anklicken
-* mittlere Menüleiste - gewünschten Mandantenbereich anklicken
-* richtig angemeldet ist man, wenn im rechten Anzeigefeld die Meldung
+1. linke Menüleiste - Qucosa - Manager anklicken
+* mittlere Menüleiste - gewünschten Mandantenbereich anklicken (Beispiel Qucosa - SLUB)
+* mit der Dokumentenverwaltung kann begonnen werden, wenn im rechten Anzeigefeld die Meldung:
 
-  ![](/assets/Hinweis.png "\(Warnung\)") **Es wurde kein gültiger Mandantenordner ausgewählt! **
+"Es wurde kein gültiger Mandantenordner ausgewählt"
 
-nicht mehr angezeigt wird.
+![](/assets/no_mandant.png)
 
-* um möglichst viel Platz im rechten Anzeigefeld zu haben, kann man die beiden Menüleisten links zusammenschieben, die mittlere kann auch ausgeblendet werden
+nicht mehr angezeigt wird und über den Schaltflächen "Dokumente" und "Suche" der Name des Mandanten sichtbar ist:
+
+![](/assets/mandant_anzeige.png)
+
+* Andernfalls noch einmal Schritt 2 wiederholen und nochmals den Mandant in der mittleren Menüleiste anklicken
+
+* Um möglichst viel Platz im rechten Anzeigefeld zu haben, können die beiden Menuleisten durch Zusammenschieben verkleinert werden. Hierzu muss die Maus auf den Rand der jeweiligen Leiste bewegt werden, bis sich die Zeigerform in ein Pfeilesysmbol ändert.
+Duch "Doppelklick" wird die mittlere Menüleiste eingeklappt.
 
 ## [Die Bedeutung der Schaltflächen](#die-bedeutung-der-schaltflächen)
 
