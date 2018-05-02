@@ -9,4 +9,5 @@ Dokumente, die sich in der Dokuemntenliste im TYPO3-Arbeitsbereich befinden, kö
 ![](/assets/erfolg_dupliziert.png)
 
 
-![](/assets/Hinweis.png) Es werden mit Ausnahme der **URN** und der **Dateianhänge** _**alle**_ Metadaten in den neuen Datensatz übertragen. 
+![](/assets/Hinweis.png) Es werden mit Ausnahme der _URN_ und der _Dateianhänge_ _**alle**_ Metadaten in den neuen Datensatz übertragen.
+Vor einer Veröffentlichung sind deshalb alle Metadatenseiten durch den Bearbeiter auf Korrektheit zu prüfen.
