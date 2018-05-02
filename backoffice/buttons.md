@@ -4,8 +4,21 @@
 
 Abhängig vom Dokumentstatus können verschiedene Aktionen am Dokument durchgeführt werden.
 
-**AKTIV / INAKTIV**:
+- **Neu**:
+Das Dokument wurde kürzlich angemeldet/durch Duplizieren erstellt und noch nicht bearbeitet, d.h. es wurden bisher keine Änderungen vorgenommen.
 
+- **In Bearbeitung**:
+
+
+
+- **AKTIV**
+Das Dokument befindet sich im Repositorium, d.h. es wurde bereits veröffentlicht und kann über die Suche (Webseite und Backoffice) gefunden werden.
+
+- ** INAKTIV**:
+Das Dokument befindet sich im Repositorium, d.h. es wurde bereits veröffentlicht.
+Es ist nicht über die Webseitensuche zu finden.
+Im Backoffice kann es nur mittels der erweiterten Suche bei ausgewählter "_Inaktiv/Gelöscht-Checkbox_" gefunden werden:
+![](/assets/inactive_search.png)
 
 **Generell gilt:** Etwas heller eingefärbte Schaltflächen sind für den konkreten Anwendungsfall nicht relevant und können deshalb nicht bedient werden.
 
