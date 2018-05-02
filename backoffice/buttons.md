@@ -1,4 +1,11 @@
-## [Die Bedeutung der Schaltflächen](#die-bedeutung-der-schaltflächen)
+## Schaltflächen und Dokumentstatus
+
+## Dokumentstatus
+
+Abhängig vom Dokumentstatus können verschiedene Aktionen am Dokument durchgeführt werden.
+
+**AKTIV / INAKTIV**:
+
 
 **Generell gilt:** Etwas heller eingefärbte Schaltflächen sind für den konkreten Anwendungsfall nicht relevant und können deshalb nicht bedient werden.
 
@@ -9,7 +16,7 @@
 | ![](/assets/image2016-6-15 12_10_4.png) Previewanzeige |  | Öffnet die Vorschau der      Landing-Page |  |
 | ![](/assets/image2016-6-15 12_11_33.png) Duplizieren des Dokumentes |  |  |  |
 | ![](/assets/image2016-6-15 12_45_40.png)Aktivieren des Dokumentes |  | Einblenden eines bereits veröffentlichten Dokumentes | ein zuvor inaktiv gesetztes Dokument soll wieder in die Suche integriert werden |
-| ![](/assets/image2016-6-15 14_22_36.png)inactive document |  | Ausblenden eines bereits    veröffentlichten Dokumentes | Das Dokument kann in der Suche nicht mehr gefunden werden, die Landing- Page kann nicht mehr aufgerufen werden. <br /> Das Dokument ist im Frontend nicht mehr sichtbar.  <br />Inaktiv gesetzte Dokumente können im Arbeitsbereich gelöscht werden.  <br />Dies bietet die Möglichkeit den Arbeitsbereich für bestimmte Dokumente zu leeren. (siehe "verwerfen") |
+| ![](/assets/image2016-6-15 14_22_36.png)Deaktivieren des Dokumentes |  | Ausblenden eines bereits    veröffentlichten Dokumentes | Das Dokument kann in der Suche nicht mehr gefunden werden, die Landing- Page kann nicht mehr aufgerufen werden. <br /> Das Dokument ist im Frontend nicht mehr sichtbar.  <br />Inaktiv gesetzte Dokumente können im Arbeitsbereich gelöscht werden.  <br />Dies bietet die Möglichkeit den Arbeitsbereich für bestimmte Dokumente zu leeren. (siehe "verwerfen") |
 | ![](/assets/info_button.png) |  | Download der DataCite-XML Datei |  |
 | ![](/assets/image2016-10-27 10_2_11.png) | Dokumentenliste, <br />Datensatz im Editiermodus | Entfernen eines Datensatzes aus dem lokalen Arbeitsbereich | **Vor der Veröffentlichung**: Der Datensatz wird vollständig entfernt. <br /> ![](/assets/Hinweis.png) **Kann nicht rückgängig gemacht werden!!!** <br /><br /> **Bereits veröffentlichte Dokumente:** Die Kopie eines Datensatzes, die zur Aktualisierung in den lokalen Arbeitsbereich geholt wurde, wird gelöscht. |
 | ![](/assets/image2016-10-27 9_58_32.png)![](/assets/image2016-10-27 9_59_19.png) | Dokumentenliste | Veröffentlichen des Datensatzes | Metadaten und Datei\(en\) werden ins Repository übertragen. Präsentation über die Recherche erfolgtDokument wird nicht mehr im lokalen Arbeitsbereich gelistet |
