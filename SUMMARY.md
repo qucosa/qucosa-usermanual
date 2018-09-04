@@ -7,7 +7,7 @@
 * [Einführung](introduction.md)
 * [Metadatenmodell](metadata.md)
 * [Schnittstellen](interfaces.md)
-* [Backoffice - Dokumentenverwaltung](backoffice.md)
+* [Backoffice - Dokumentenverwaltung](backoffice/readme.md)
   * [Login und Zugang zum Backoffice](backoffice/access.md)
   * [Schaltflächen und Dokumentstatus](backoffice/buttons.md)
   * [Bearbeiten von Dokumenten](backoffice/edit.md)

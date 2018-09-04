@@ -8,6 +8,8 @@ Abhängig vom Dokumentstatus können verschiedene Aktionen am Dokument durchgef�
 Das Dokument wurde kürzlich angemeldet/durch Duplizieren erstellt und noch nicht bearbeitet, d.h. es wurden bisher keine Änderungen vorgenommen.
 
 - **In Bearbeitung**:
+Am Dokument wurden bereits Änderungen vorgenommen.
+Es wurde entweder nach der Dokumentanmeldung bereits bearbeitet oder es wurde eine lokale Kopie aus dem Repositorium in den Arbeitsbereich (TYPO3) geladen.
 
 
 
