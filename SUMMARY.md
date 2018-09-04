@@ -15,7 +15,7 @@
 * [Anlegen neuer Dokumente](create_documents.md)
   * [Anmelden im Eingabeassistenten](input_wizard.md)
     * [Dokumentarten](input_wizard/document_types.md)
-      * [Aufnahme eines Zeitschriftenartikels](input_wizard/document_types/article.md)
+    * [Aufnahme eines Zeitschriftenartikels](input_wizard/document_types/article.md)
   * [Duplizieren eines Dokumentes](create_documents/duplicate.md)
 * [Webseitenredaktion - TYPO3](website-editing-typo3.md)
   * [Webseiten anlegen und bearbeiten](website-editing-typo3.md)
