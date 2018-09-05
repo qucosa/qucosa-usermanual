@@ -18,6 +18,7 @@
 * [Dokumentarten](input_wizard/document_types/document_types.md)
 * [Webseitenredaktion-TYPO3](website_editing_TYPO3/README.md)
   * [Anlegen von Webseiten](website_editing_TYPO3/creating.md)
+* [Beziehungen und Hierarchien von Dokumenten](relations_and_hierarchies_of_docs/README.md)
 
 ## Nachschlagewerk
 
