@@ -1,6 +1,6 @@
 # Summary
 
-## Handbuch
+## Handbuch Qucosa
 
 * [Readme](README.md)
 * [Inhaltsverzeichnis](SUMMARY.md)
@@ -13,14 +13,11 @@
   * [Bearbeiten von Dokumenten](backoffice/edit.md)
   * [Felder und Eingaberegeln](backoffice and configuration.md)
 * [Anlegen neuer Dokumente](create_documents.md)
-  * [Anmelden im Eingabeassistenten](input_wizard.md)
-    * [Dokumentarten](input_wizard/document_types.md)
-    * [Aufnahme eines Zeitschriftenartikels](input_wizard/document_types/article.md)
+  * [Anmelden im Eingabeassistenten](create_documents/input_wizard.md)
   * [Duplizieren eines Dokumentes](create_documents/duplicate.md)
-* [Webseitenredaktion - TYPO3](website-editing-typo3.md)
-  * [Webseiten anlegen und bearbeiten](website-editing-typo3.md)
-  * [Vorschau anzeigen](website-editing-typo3.md)
-  * [Übersetzungen anlegen](website-editing-typo3.md)
+* [Dokumentarten](input_wizard/document_types/document_types.md)
+* [Webseitenredaktion-TYPO3](website_editing_TYPO3/README.md)
+  * [Anlegen von Webseiten](website_editing_TYPO3/creating.md)
 
 ## Nachschlagewerk
 
